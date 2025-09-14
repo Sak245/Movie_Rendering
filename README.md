@@ -80,8 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) for the amazing development experience
 - [React](https://reactjs.org/) for the UI library
 
-## 📬 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/movie-browser](https://github.com/yourusername/movie-browser)
